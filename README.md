@@ -16,4 +16,4 @@ The data is saved as `test.csv` in `~/catkin_ws/`. Rename it (F2) and relocate i
 
 The data is saved in the following format: x, y, z
 
-When finished, kill all processes in all terminals (ctrl + c in all terminals), then close all terminals
+When finished, kill all processes in all terminals (ctrl + c in all terminals), then close all terminals. Relocate the `.bag` files to keep the scripts directory tidy.
