@@ -15,3 +15,5 @@ Instructions to get pose data from omnimagnet system eddy current experiments
 The data is saved as `test.csv` in `~/catkin_ws/`. Rename it (F2) and relocate it.
 
 The data is saved in the following format: x, y, z
+
+When finished, kill all processes in all terminals (ctrl + c in all terminals), then close all terminals
